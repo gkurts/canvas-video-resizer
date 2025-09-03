@@ -1,5 +1,7 @@
 # Canvas Video Resizer
 
+![alt text](icon128.png "CVR Logo")
+
 A Chrome extension that makes Canvas LMS embedded videos resizable.  
 Useful for making lecture recordings and course videos easier to watch.
 
