@@ -1,22 +1,21 @@
-MIT License
+# Canvas Video Resizer
 
-Copyright (c) 2025 [Your Name]
+A Chrome extension that makes Canvas LMS embedded videos resizable.  
+Useful for making lecture recordings and course videos easier to watch.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Features
+- Drag the resize handle in the bottom-right corner of any Canvas video or embed.
+- Works with `<video>` elements and embedded `<iframe>` players.
+- Auto-initializes on Canvas pages.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Installation
+1. Clone or download this repository.
+2. Open **chrome://extensions/** in Chrome.
+3. Enable **Developer mode**.
+4. Click **Load unpacked** and select the extension folder.
+5. Navigate to or reload your Canvas lecture.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Enjoy!
 
+## License
+This project is licensed under the [MIT License](./LICENSE).
